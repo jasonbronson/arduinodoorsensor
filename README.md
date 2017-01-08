@@ -1,4 +1,4 @@
-# arduinodoorsen
+# Arduinodoorsensor
 Arduino door sensor 
 
 #Youtube video demo

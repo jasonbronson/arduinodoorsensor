@@ -1,8 +1,9 @@
-# arduinodoorsensor
+# arduinodoorsen
 Arduino door sensor 
 
-Youtube video demo
+#Youtube video demo
 https://www.youtube.com/watch?v=kO-kUYALz_I
+
 
 Arduino pro mini 3v wireless door sensor for a custom home alarm system.
 Arduino door sensor
